@@ -1,0 +1,10 @@
+{
+  "okta": {
+    "oidc": {
+      "issuer": "",
+      "clientId": "",
+      "redirectUri": "",
+      "scopes": ["openid", "profile", "email"]
+    }
+  }
+}
